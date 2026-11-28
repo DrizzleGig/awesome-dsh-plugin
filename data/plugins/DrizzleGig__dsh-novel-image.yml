@@ -3,4 +3,4 @@ name: DrizzleGig/dsh-novel-image
 category: workflow
 description:
   en: Extracts evidence-backed visual settings from novel text, compiles prompts for image tools, imports drafts for vision critique, and manages cover layouts; it does not generate images.
-  zh: 从小说正文提取有原文依据的视觉设定，编译多工具提示词，导入首稿做视觉回改，并管理封面构图；不生成图片。
+  zh: 脑海里的角色和场景，终于可以变成看得见的画面。从小说正文提取角色与场景设定，保留原文依据；用多种格式编写生图提示词，导入图片后还能让 AI 帮你分析、修改和完善。管理角色设定图、角色变体与参考素材，学习自己喜欢的视觉风格，还能设计小说封面、排版书名。支持连接 ComfyUI 和 OpenAI 兼容服务。设定由你掌控，画面由你决定。
