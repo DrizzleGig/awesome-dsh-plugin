@@ -1,0 +1,6 @@
+url: https://github.com/DrizzleGig/dsh-novel-adult
+name: DrizzleGig/dsh-novel-adult
+category: workflow
+description:
+  en: Adult-oriented long-form fiction writing mode for authors of mature-theme literature. A right sidebar panel switches the writing mode per session, picks one of four narrative-intensity levels, records an adult-use confirmation that only the author can give in the panel, turns your own text samples into a short deterministic style brief, and previews exactly which prompt sections get injected. Every character in adult content must be a stated adult (18+); fictional use only; no bypassing of model or platform review.
+  zh: 面向成熟主题文学创作的成人向长篇小说写作模式。右栏面板按会话开关写作模式、选择四档叙事强度、记录只由作者本人在面板里给出的成人向使用确认，把自备文本样本提炼成一份确定性的写法简报，并预览究竟注入了哪些提示词段落。涉及成人内容的角色必须明确为 18 岁以上成年人；仅限虚构创作；不提供任何绕过模型或平台审核的能力。
